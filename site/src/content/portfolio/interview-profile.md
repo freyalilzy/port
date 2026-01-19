@@ -3,12 +3,9 @@ title: "Interview/Profile"
 description: "Student interviews exploring how financial barriers and social isolation impact retention and mental health in higher education"
 gradient: accent
 date: 2026-01-10
-tags: ["qualitative research", "student interviews", "university retention", "financial barriers"]
 ---
 
-# Interview/Profile
-
-## Community/Engagement
+#### Community/Engagement
 
 **How much do finances and social participation impact student life at university?**
 

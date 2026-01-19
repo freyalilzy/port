@@ -11,6 +11,7 @@
   "dependencies": {
     "astro": "^5.16.11",
     "remark-footnotes": "^5.0.0",
-    "remark-gfm": "^4.0.1"
+    "remark-gfm": "^4.0.1",
+    "remark-reading-time": "^2.0.2"
   }
 }

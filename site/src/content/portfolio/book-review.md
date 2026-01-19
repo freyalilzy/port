@@ -3,12 +3,10 @@ title: "Book Review"
 description: "Analysis of Helen Wilman's 'The Conquest of Poverty' examining mindset, education, and systemic barriers to social mobility"
 gradient: primary
 date: 2026-01-15
-tags: ["critical analysis", "social mobility", "education", "poverty"]
+
 ---
 
-# BOOK REVIEW
-
-## Persuasive Writing
+#### Persuasive Writing
 
 **Helen Wilman’s “The Conquest of Poverty”: The roots and conflicts of impoverishment.**
 
@@ -24,9 +22,6 @@ Wilman’s book serves to reinforce the importance of mentality in achieving aca
 
 
 ## References
-
-1.	Descartes, R. (1637). Discourse on the Method. Hackett Publishing Co Inc., p.10.
-
 
 [^1]: Wilmans, H. (1899). The Conquest of Poverty. Wilmans Publishing House.
 

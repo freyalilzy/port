@@ -45,6 +45,9 @@ const { Content } = await entry.render();
             <h1>{entry.data.title}</h1>
             <p class="article-meta">
               {entry.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              {entry.data.reading && (
+                <> · {entry.data.reading.words} words</>
+              )}
             </p>
             {entry.data.tags && (
               <div class="tags">

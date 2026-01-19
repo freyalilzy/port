@@ -3,12 +3,9 @@ title: "Feature Article"
 description: "Narrative exploration of socioeconomic inequality in university experiences, examining how finances divide student life and social belonging"
 gradient: secondary
 date: 2026-01-10
-tags: ["feature writing", "socioeconomic inequality", "higher education", "student experience"]
 ---
 
-# Feature Article
-
-## Informative Writing
+#### Informative Writing
 
 **The source of stability: Why money divides the student experience.**
 
@@ -24,34 +21,15 @@ At the University of Exeter, I have met friends I will keep for life. Neverthele
 
 ## References
 
-1.	Alotaibi, T.A. (2023). The Benefits of Friendships in Academic Settings: A Systematic Review and Meta-Analysis. Cureus, [online] 15(12). doi: https://doi.org/10.7759/cureus.50946. 
-2.	‌Chesson, M. (2025). Kent’s most deprived neighbourhoods revealed in new official rankings. [online] Kent Online. Available at: https://www.kentonline.co.uk/thanet/news/kents-most-deprived-neighbourhoods-revealed-in-new-official-331874/  
-3.	Cox, C. (2025). The Russell Group unis where the most private school students are lurking in 2025. [online] The Tab. Available at: https://thetab.com/2025/01/17/the-russell-group-unis-where-the-most-private-school-students-are-lurking-in-2025. 
-4.	Kenyon, S. (2024). Widening Participation and Lifelong Learning. [online] Ingenita Connect, Open University, pp.115–142. Available at: https://www.ingentaconnect.com/content/openu/jwpll/2024/00000026/00000003/art00006. 
-5.	Kenyon, S. (2025). Shaping higher education for commuter students. [online] Wonkhe. Available at: https://wonkhe.com/blogs/shaping-higher-education-for-commuter-students/. 
-6.	‌‌Perrott, L. (2025). Graduate Outcomes 2022/23: Summary Statistics - Summary. [online] HESA. Available at: https://www.hesa.ac.uk/news/17-07-2025/sb272-higher-education-graduate-outcomes-statistics. 
-7.	Tahir, I. (2022). The UK Education System Preserves Inequality - New Report. [online] Institute for Fiscal Studies. Available at: https://ifs.org.uk/articles/uk-education-system-preserves-inequality-new-report. 
-8.	Unipol.org.uk. (2019). Unipol Survey Finds Rising Rents a Major Concern for 76% of Students. [online] Available at: https://www.unipol.org.uk/news/unipol-survey-finds-rising-rents-a-major-concern-for-75-of-students/. 
-9.	Wonkhe and Pearson (2023). Cost of living and student belonging. [online] Wonkhe.com. Available at: https://wonkhe.com/wp-content/wonkhe-uploads/2023/10/Cost-of-living-and-belonging-charts-.pdf. 
-10.	YouGov (2023). Loneliness at University. [online] YouGov. Available at: https://docs.cdn.yougov.com/lv0l198c6o/YouGov%20DCMS%20-%20Loneliness%20Uni%20Students.pdf.
-
-[^1]: Perrott, L. (2025). Graduate Outcomes 2022/23: Summary Statistics - Summary. [online] HESA. Available at: https://www.hesa.ac.uk/news/17-07-2025/sb272-higher-education-graduate-outcomes-statistics.
-
+[^1]: Perrott, L. (2025). Graduate Outcomes 2022/23: Summary Statistics - Summary. [online] HESA. Available at: https://www.hesa.ac.uk/news/17-07-2025/sb272-higher-education-graduate-outcomes-statistics. 
 [^2]: Chesson, M. (2025). Kent's most deprived neighbourhoods revealed in new official rankings. [online] Kent Online. Available at: https://www.kentonline.co.uk/thanet/news/kents-most-deprived-neighbourhoods-revealed-in-new-official-331874/
-
 [^3]: Cox, C. (2025). The Russell Group unis where the most private school students are lurking in 2025. [online] The Tab. Available at: https://thetab.com/2025/01/17/the-russell-group-unis-where-the-most-private-school-students-are-lurking-in-2025.
-
 [^4]: Kenyon, S. (2024). Widening Participation and Lifelong Learning. [online] Ingenita Connect, Open University, pp.115–142. Available at: https://www.ingentaconnect.com/content/openu/jwpll/2024/00000026/00000003/art00006.
-
 [^5]: Kenyon, S. (2025). Shaping higher education for commuter students. [online] Wonkhe. Available at: https://wonkhe.com/blogs/shaping-higher-education-for-commuter-students/.
-
 [^6]: Alotaibi, T.A. (2023). The Benefits of Friendships in Academic Settings: A Systematic Review and Meta-Analysis. Cureus, [online] 15(12). doi: https://doi.org/10.7759/cureus.50946.
-
 [^7]: Tahir, I. (2022). The UK Education System Preserves Inequality - New Report. [online] Institute for Fiscal Studies. Available at: https://ifs.org.uk/articles/uk-education-system-preserves-inequality-new-report.
-
 [^8]: Unipol.org.uk. (2019). Unipol Survey Finds Rising Rents a Major Concern for 76% of Students. [online] Available at: https://www.unipol.org.uk/news/unipol-survey-finds-rising-rents-a-major-concern-for-75-of-students/.
-
-[^9]: Wonkhe and Pearson (2023). Cost of living and student belonging. [online] Wonkhe.com. Available at: https://wonkhe.com/wp-content/wonkhe-uploads/2023/10/Cost-of-living-and-belonging-charts-.pdf.
-
-[^10]: YouGov (2023). Loneliness at University. [online] YouGov. Available at: https://docs.cdn.yougov.com/lv0l198c6o/YouGov%20DCMS%20-%20Loneliness%20Uni%20Students.pdf. 
+[^9]: Wonkhe and Pearson (2023). Cost of living and student belonging. [online] Wonkhe.com. Available at: https://wonkhe.com/wp-content/wonkhe-uploads/2023/10/Cost-of-living-and-belonging-charts-.pdf. 
+[^10]: YouGov (2023). Loneliness at University. [online] YouGov. Available at: https://docs.cdn.yougov.com/lv0l198c6o/YouGov%20DCMS%20-%20Loneliness%20Uni%20Students.pdf.
+ 
 

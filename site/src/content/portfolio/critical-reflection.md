@@ -3,10 +3,7 @@ title: "Critical Reflection"
 description: "Reflective analysis on research methodology, lateral thinking, and insights into finances and social participation in university attainment"
 gradient: primary
 date: 2025-12-20
-tags: ["research methodology", "academic writing", "reflection", "social inclusion"]
 ---
-
-# Critical Reflection
 
 **The Sources of my Learning, Creative Decisions and Development: Analysing the Role of Finances and Social Participation in University Attainment**
 

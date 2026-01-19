@@ -142,3 +142,9 @@ a:hover {
     outline: 2px solid var(--color-accent-primary);
     outline-offset: 2px;
 }
+
+/* Hide auto-generated Footnotes heading from remark-gfm */
+/* The markdown already has a References heading, so we hide the duplicate */
+.footnotes > h2 {
+    display: none;
+}
