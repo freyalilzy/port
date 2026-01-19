@@ -1,6 +1,11 @@
 ---
+import { getCollection } from 'astro:content';
 import PortfolioCard from '../components/PortfolioCard.astro';
 import '../styles/global.css';
+
+const portfolioEntries = await getCollection('portfolio');
+// Sort by date, newest first
+const sortedEntries = portfolioEntries.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 
 <!DOCTYPE html>
@@ -36,35 +41,13 @@ import '../styles/global.css';
       <section class="portfolio-section">
         <div class="container">
           <div class="portfolio-grid">
-            <PortfolioCard
-              title="Media Analysis Project"
-              description="A critical examination of digital media platforms and their influence on public discourse, exploring how social media shapes contemporary communication."
-              href="/content/media-analysis"
-            />
-            
-            <PortfolioCard
-              title="Campaign Strategy"
-              description="Development and analysis of an integrated communication campaign, demonstrating strategic planning and audience engagement across multiple channels."
-              href="/content/campaign-strategy"
-            />
-            
-            <PortfolioCard
-              title="Cultural Studies Research"
-              description="An investigation into representation and identity in contemporary media, examining how cultural narratives are constructed and disseminated."
-              href="/content/cultural-research"
-            />
-            
-            <PortfolioCard
-              title="Visual Communication"
-              description="A portfolio of visual storytelling projects exploring the power of imagery and design in conveying complex messages and ideas."
-              href="/content/visual-communication"
-            />
-            
-            <PortfolioCard
-              title="Rhetorical Analysis"
-              description="A comprehensive study of persuasive communication strategies in political and social movements, analyzing language, framing, and audience impact."
-              href="/content/rhetorical-analysis"
-            />
+            {sortedEntries.map(entry => (
+              <PortfolioCard
+                title={entry.data.title}
+                description={entry.data.description}
+                href={`/portfolio/${entry.slug}`}
+              />
+            ))}
           </div>
         </div>
       </section>
