@@ -6,6 +6,7 @@ import readingTime from 'remark-reading-time';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://freyalilzy.github.io',
+    base: '/port',
     markdown: {
         remarkPlugins: [
             readingTime,
