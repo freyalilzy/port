@@ -11,6 +11,12 @@ importers:
       astro:
         specifier: ^5.16.11
         version: 5.16.11(rollup@4.55.2)(typescript@5.9.3)
+      remark-footnotes:
+        specifier: ^5.0.0
+        version: 5.0.0
+      remark-gfm:
+        specifier: ^4.0.1
+        version: 4.0.1
 
 packages:
 
@@ -1143,6 +1149,10 @@ packages:
 
   rehype@13.0.2:
     resolution: {integrity: sha512-j31mdaRFrwFRUIlxGeuPXXKWQxet52RBQRvCmzl5eCefn/KGbomK5GMHNMsOJf55fgo3qw5tST5neDuarDYR2A==}
+
+  remark-footnotes@5.0.0:
+    resolution: {integrity: sha512-bmRA8Xel4YZA5PphUOdamG3Cf3BshoGZQlwVqF+bv0Ei1/b9ETOSyoKtpVAk8zIRJ2dAwio2HFnbC9wjLmy02A==}
+    deprecated: 'Deprecated: use `remark-gfm`'
 
   remark-gfm@4.0.1:
     resolution: {integrity: sha512-1quofZ2RQ9EWdeN34S79+KExV1764+wCUGop5CPL1WGdD0ocPpu91lzPGbwWMECpEpd42kJGQwzRfyov9j4yNg==}
@@ -2785,6 +2795,8 @@ snapshots:
       rehype-parse: 9.0.1
       rehype-stringify: 10.0.1
       unified: 11.0.5
+
+  remark-footnotes@5.0.0: {}
 
   remark-gfm@4.0.1:
     dependencies:

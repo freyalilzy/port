@@ -1,0 +1,57 @@
+---
+title: "Feature Article"
+description: "Narrative exploration of socioeconomic inequality in university experiences, examining how finances divide student life and social belonging"
+gradient: secondary
+date: 2026-01-10
+tags: ["feature writing", "socioeconomic inequality", "higher education", "student experience"]
+---
+
+# Feature Article
+
+## Informative Writing
+
+**The source of stability: Why money divides the student experience.**
+
+When I arrived at university, I had a clear understanding of what I could afford – and what I couldn’t. It was only September, but the year ahead was already defined. Rent, food and my monthly budget had all been carefully calculated.
+The University of Exeter always seemed ideal; a Russell Group, pleasantly scenic, and with excellent graduate outcomes (Perrott, 2025)[^1]. It represented opportunity, independence and new experiences. However, the campus is also frequently perceived as a playground for privately educated, affluent students. Within the first few weeks, the reality of these stereotypes became increasingly apparent.
+The neighbourhoods of my hometown, Ramsgate, fall within the top 1% of most deprived areas in the county (Chesson, 2025)[^2]. Less than 20% of children from the most deprived fifth of households are university graduates by age 26, compared with over 70% of private school students (Tahir, 2022)[^7]. Evidently, the children of wealthy families are funnelled into higher education, whilst the more disadvantaged are left to occupy minimum wage jobs. Thus, the cycle of educational and financial deprivation continues. Exeter's student profile further accentuates these disparities, having the 5th highest proportion of private school students in the country (Cox, 2025)[^3]. Arriving at university from such a deprived area, these statistics felt abstract, until I began to see the price of participation firsthand.
+This is not to say that university isn’t also a financial strain on the average, or slightly higher income family; only to note that they have more disposable income. The student experience is framed as a stage of independence, and yet I couldn’t help but notice the extent to which my peers were still supported by their families. Naturally, parents want to give their children an advantage – my single mother would give me the world, if she could. Even so, my financial position often left me feeling undeniably lonely and self-conscious. Some of my friends could spend the equivalent of a month’s rent in one evening, assuaged by the knowledge that their parents would swiftly replace the money. Conversely, I found myself fabricating excuses as to why I was absent from social events – illness, coursework, exhaustion. My friends would return, bonded by riveting experiences, whilst I formed a growing sense of exclusion.
+I know that participation in social events is a privilege, not a right. University was created to provide students with an education, not a social life. However, the ability to engage with these activities also shape the academic lives of students. Friendships positively influence academic performance by "reducing stress" and thereby improving focus (Alotaibi et al, 2023)[^6]. The lack of these social connections has a negative knock-on effect to mental health (Wonkhe and Pearson, 2023)[^9], meaning that existing disparities are reinforced. The student experience should not be confined to academic provision alone – social integration is a vital factor in shaping student outcomes, and this is explicitly linked to finances. Financially disadvantaged students are applauded for overcoming systemic inequality and making it to university, only to face the same challenges and deal with substantial student loan debt.
+I have come to learn that the phrase “I have no money” carries very different meanings, depending on the student. Many students have trust funds, which they choose not to draw upon. By contrast, others’ lack of money is a fixed limitation. My friend, an international student, would often argue that I was more advantaged, as I paid less than her in tuition fees. Perhaps that part was true, but it was hard to believe from someone with a personal driver and a live-in maid. On another occasion, I found myself politely nodding as a flatmate complained about “summering in France again”. I bonded with others by teaching them how to fold tortilla wraps, vacuum carpets, do laundry. I stayed awkwardly silent as my friends debated whose London house to visit. Possibly, I should’ve openly questioned these tone-deaf statements. Except, like so many other students, I desperately wanted to fit in.
+UK students rank loneliness and making new friends as their primary concern, even more than managing money (YouGov, 2023)[^10]. This fear of isolation causes many to alter their financial priorities, meaning that social mobility may take partial precedence over necessities such as food. Whilst wealthier students can more easily balance finances and friendships, those from more disadvantaged backgrounds are increasingly forced to choose between the two, creating a more challenging university experience.
+The University of Exeter isn’t the only institution wherein money divides the student experience. It is a particularly pronounced example, given its high proportion of privately educated students. However, socioeconomic inequality is widespread across UK universities and appears to be worsening. Despite my other research, I was still surprised to learn that there are now more students commuting than living as traditional residents (Kenyon 2024, Kenyon 2025)[^4][^5]. Phones are easily blamed as the barrier to socialisation, with money – the more awkward topic – being downplayed. Regardless, increasing rent is becoming harder to ignore (Unipol, 2025)[^8], forcing students to commute instead. This introduces time constraints and reduced flexibility to student life, limiting ability to engage in academic support sessions and extracurricular activities. This issue of affordability disproportionately affects disadvantaged, low-income students. 
+At the University of Exeter, I have met friends I will keep for life. Nevertheless, I was constantly aware of our differing financial situations, a feeling that I know many students share. England’s cost of living and mental health crisis are placing increasing pressure on the student population. Universities, and even UK Government, must address this problem. Otherwise, the wealth disparities will widen, forcing lower income individuals out of higher education. Disadvantaged students deserve affordability, greater social mobility, and an equally satisfactory student experience. Otherwise, there will continue to be a culture of inequality and privilege within universities.
+
+## References
+
+1.	Alotaibi, T.A. (2023). The Benefits of Friendships in Academic Settings: A Systematic Review and Meta-Analysis. Cureus, [online] 15(12). doi: https://doi.org/10.7759/cureus.50946. 
+2.	‌Chesson, M. (2025). Kent’s most deprived neighbourhoods revealed in new official rankings. [online] Kent Online. Available at: https://www.kentonline.co.uk/thanet/news/kents-most-deprived-neighbourhoods-revealed-in-new-official-331874/  
+3.	Cox, C. (2025). The Russell Group unis where the most private school students are lurking in 2025. [online] The Tab. Available at: https://thetab.com/2025/01/17/the-russell-group-unis-where-the-most-private-school-students-are-lurking-in-2025. 
+4.	Kenyon, S. (2024). Widening Participation and Lifelong Learning. [online] Ingenita Connect, Open University, pp.115–142. Available at: https://www.ingentaconnect.com/content/openu/jwpll/2024/00000026/00000003/art00006. 
+5.	Kenyon, S. (2025). Shaping higher education for commuter students. [online] Wonkhe. Available at: https://wonkhe.com/blogs/shaping-higher-education-for-commuter-students/. 
+6.	‌‌Perrott, L. (2025). Graduate Outcomes 2022/23: Summary Statistics - Summary. [online] HESA. Available at: https://www.hesa.ac.uk/news/17-07-2025/sb272-higher-education-graduate-outcomes-statistics. 
+7.	Tahir, I. (2022). The UK Education System Preserves Inequality - New Report. [online] Institute for Fiscal Studies. Available at: https://ifs.org.uk/articles/uk-education-system-preserves-inequality-new-report. 
+8.	Unipol.org.uk. (2019). Unipol Survey Finds Rising Rents a Major Concern for 76% of Students. [online] Available at: https://www.unipol.org.uk/news/unipol-survey-finds-rising-rents-a-major-concern-for-75-of-students/. 
+9.	Wonkhe and Pearson (2023). Cost of living and student belonging. [online] Wonkhe.com. Available at: https://wonkhe.com/wp-content/wonkhe-uploads/2023/10/Cost-of-living-and-belonging-charts-.pdf. 
+10.	YouGov (2023). Loneliness at University. [online] YouGov. Available at: https://docs.cdn.yougov.com/lv0l198c6o/YouGov%20DCMS%20-%20Loneliness%20Uni%20Students.pdf.
+
+[^1]: Perrott, L. (2025). Graduate Outcomes 2022/23: Summary Statistics - Summary. [online] HESA. Available at: https://www.hesa.ac.uk/news/17-07-2025/sb272-higher-education-graduate-outcomes-statistics.
+
+[^2]: Chesson, M. (2025). Kent's most deprived neighbourhoods revealed in new official rankings. [online] Kent Online. Available at: https://www.kentonline.co.uk/thanet/news/kents-most-deprived-neighbourhoods-revealed-in-new-official-331874/
+
+[^3]: Cox, C. (2025). The Russell Group unis where the most private school students are lurking in 2025. [online] The Tab. Available at: https://thetab.com/2025/01/17/the-russell-group-unis-where-the-most-private-school-students-are-lurking-in-2025.
+
+[^4]: Kenyon, S. (2024). Widening Participation and Lifelong Learning. [online] Ingenita Connect, Open University, pp.115–142. Available at: https://www.ingentaconnect.com/content/openu/jwpll/2024/00000026/00000003/art00006.
+
+[^5]: Kenyon, S. (2025). Shaping higher education for commuter students. [online] Wonkhe. Available at: https://wonkhe.com/blogs/shaping-higher-education-for-commuter-students/.
+
+[^6]: Alotaibi, T.A. (2023). The Benefits of Friendships in Academic Settings: A Systematic Review and Meta-Analysis. Cureus, [online] 15(12). doi: https://doi.org/10.7759/cureus.50946.
+
+[^7]: Tahir, I. (2022). The UK Education System Preserves Inequality - New Report. [online] Institute for Fiscal Studies. Available at: https://ifs.org.uk/articles/uk-education-system-preserves-inequality-new-report.
+
+[^8]: Unipol.org.uk. (2019). Unipol Survey Finds Rising Rents a Major Concern for 76% of Students. [online] Available at: https://www.unipol.org.uk/news/unipol-survey-finds-rising-rents-a-major-concern-for-75-of-students/.
+
+[^9]: Wonkhe and Pearson (2023). Cost of living and student belonging. [online] Wonkhe.com. Available at: https://wonkhe.com/wp-content/wonkhe-uploads/2023/10/Cost-of-living-and-belonging-charts-.pdf.
+
+[^10]: YouGov (2023). Loneliness at University. [online] YouGov. Available at: https://docs.cdn.yougov.com/lv0l198c6o/YouGov%20DCMS%20-%20Loneliness%20Uni%20Students.pdf. 
+

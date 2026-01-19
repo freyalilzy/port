@@ -1,0 +1,26 @@
+---
+title: "Critical Reflection"
+description: "Reflective analysis on research methodology, lateral thinking, and insights into finances and social participation in university attainment"
+gradient: primary
+date: 2025-12-20
+tags: ["research methodology", "academic writing", "reflection", "social inclusion"]
+---
+
+# Critical Reflection
+
+**The Sources of my Learning, Creative Decisions and Development: Analysing the Role of Finances and Social Participation in University Attainment**
+
+The origins of this project lie in my personal history of financial constraint, which shaped both my choice of topic and questions. As the research progressed, it became more evident that a strong link existed between finances, social participation and university attainment.
+A strength of my project was that I deliberately incorporated methods of lateral thinking to ensure that I explored the topic from a variety of angles. Using interviews within my portfolio enabled me to view the topic from a different lens, addressing connections which I might have otherwise omitted. For instance, the particular importance of flatmates in social satisfaction, rather than merely the broader friendships which students make at university. Reviewing Bella’s profile afterwards, I was then able to carry out reflective observations and learn from this information. 
+
+Reviewing and enlisting a range of academic and journalistic sources strengthened my arguments considerably. The research made me even more sharply aware of socioeconomic inequalities existing not just within the University of Exeter, but across all UK universities. Forming arguments on the basis of such evidence, rather than vice versa, was an application of Cottrell’s methods for critical thinking and evidence-led conclusions. 
+
+Conversely, my feature article was somewhat limited by my hesitancy to incorporate personal history. I was cautious about adopting a tone which could be interpreted as overly emotive, for fear that it would detract from the academic focus of the article. I tried to manage this by evaluating counterpoints and balancing my more autobiographical paragraphs with academic studies. However, I think that a more confident tone could have worked equally well.
+
+On the other hand, I found that focusing on themes of origin and personal history also helped me cater this portfolio to my target audience. Especially when writing my feature article, I imagined myself writing to students who – like myself, in first year – were incredibly nervous about social mobility and finances. The more relaxed, open tone of this feature article enabled me to re-encounter past experiences, such as in Kolb’s concept of a “concrete experience”, and reinterpret any past experiences from a different, more mature perspective. Thereby, I was able to learn from these events again, in a reflective cycle.
+
+Finances are a commonly acknowledged barrier to higher education, although the impact of social participation is substantially less recognised. Therefore, the importance of the latter has been particularly illuminated by the sources which I curated. However, there was notably more research to support the impact of financial stability on student satisfaction and attainment, so I had to be careful that I discussed finances and social participation equally. I was shocked to learn that there wasn’t more research on this topic, as the information I found and discussed was particularly surprising. In first year, and even until now, I had always believed that my fears of social isolation were abnormal and irrational, limited to only myself. However, to find that this was such a major concern for my peers, as well, was equally unexpected and even somewhat reassuring. However, it also demonstrates the lack of awareness that there is around this particular point of focus.
+
+Overall, this research project has led me to deep introspection and a more comprehensive understanding of my peers. I have improved my ability to engage with academic sources, as well as write for an audience. The feature article was primarily written for a student readership, particularly those who are considering university as a pathway. I aimed to make sure that the tone wasn’t too harsh, whilst remaining informative and honest about the wealth disparities between wealthier and lower income students. Through this article, as well as the interview, I sought to engage with university educators and administrators who influence student support structures so that they would be more encouraged to reflect on how financial background shapes participation. I feel confident in the fact that I have translated my learning through text to my readers, in a way which would promote critical discussion around inclusion and institutional responsibility. Ultimately, my research has demonstrated that financial background and social mobility have existed as limits on education for centuries, but still remain powerful determinants of the university experience, shaping the futures of millions of students around the UK. 
+
+Addressing these disparities at a higher level requires universities to move beyond performative level initiatives, and to instead focus on confronting and breaking down the systemic barriers that continually reproduce inequality within higher education.
